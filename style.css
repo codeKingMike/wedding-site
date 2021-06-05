@@ -104,3 +104,34 @@ body {
 .wedding-details-context a {
   margin: 2.5rem 0;
 }
+
+/* INVITED TO WEDDING */
+
+#invited {
+  height: 100vh;
+  background: url("https://www.w3schools.com/w3images/flowers.jpg") no-repeat;
+  background-position: center;
+  background-size: cover;
+  color: #fff;
+}
+
+.invited-context {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  align-items: center;
+}
+
+.invited-context h1 {
+  font-size: 4rem;
+  font-weight: 300;
+  padding: 3rem;
+}
+
+.invited-context h3 {
+  font-weight: 300;
+  margin-bottom: 2rem;
+}
+
+/* THE WEDDING */
