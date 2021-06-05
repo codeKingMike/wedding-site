@@ -135,3 +135,97 @@ body {
 }
 
 /* THE WEDDING */
+
+#wedding {
+  background-color: #f2e1e1;
+}
+
+.wedding-context {
+  padding: 3.5rem;
+}
+
+.wedding-context h2 {
+  color: #757575;
+  font-size: 2.5rem;
+  font-weight: 400;
+  /* padding-bottom: 3.5rem; */
+}
+
+.wedding-context img {
+  padding: 4rem 0;
+}
+
+.wedding-context .when-where {
+  display: flex;
+  justify-content: space-around;
+}
+
+.wedding-context .when h4,
+.wedding-context .where h4 {
+  font-size: 2rem;
+  padding: 0 0 1.1rem 0;
+  font-weight: 400;
+}
+
+.wedding-context .when p,
+.wedding-context .where p {
+  padding: 0.4rem 0;
+}
+
+/* MAKE IT */
+
+#make-it {
+  background-color: #ffdddd;
+  height: 35vh;
+}
+
+.make-it-context {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.make-it-context h2 {
+  font-weight: 300;
+  font-size: 2.6rem;
+}
+
+.make-it-context h5 {
+  padding: 1.5rem 0;
+  font-weight: 300;
+  letter-spacing: 0.2rem;
+}
+
+.make-it-context a {
+  background-color: #f88077;
+  padding: 1rem 4rem;
+}
+
+/* MADE BY */
+
+#made-by {
+  height: 9vh;
+  background-color: black;
+  color: #fff;
+  margin-bottom: 2rem;
+}
+
+.made-by-context {
+  text-align: center;
+  display: flex;
+  align-items: center;
+  height: 100%;
+  justify-content: center;
+}
+
+.made-by-context p {
+  margin-top: 2rem;
+}
+
+.made-by-context {
+}
+
+.made-by-context {
+}
