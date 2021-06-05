@@ -73,3 +73,34 @@ body {
   padding-top: 1rem;
   font-size: 2rem;
 }
+
+/* WEDDING DETAILS */
+
+#wedding-details {
+  background-color: #f2e1e1;
+  padding: 4.5rem 0;
+  /* height: 105vh; */
+}
+
+.wedding-details-context h2 {
+  color: #858383;
+  font-size: 2.3rem;
+  font-weight: 400;
+}
+
+.wedding-details-context img {
+  padding: 2.3rem;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.wedding-details-context p {
+  text-align: start;
+  width: 100%;
+  padding: 0 2rem;
+  line-height: 1.8rem;
+}
+
+.wedding-details-context a {
+  margin: 2.5rem 0;
+}
